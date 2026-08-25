@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+@import "config/root";
+@import "config/global";
+@import "config/fonts";
+
+@import "refresh/styles";
+
+@import "components/banner";
+@import "components/info";
+@import "components/parts";
+@import "components/upload-file";
+@import "components/steps";
+@import "components/catalog";
+
+@import "pages/project";
+
+@import "lib/swiper-bundle";

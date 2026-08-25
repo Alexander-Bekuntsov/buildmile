@@ -1,0 +1,7 @@
+# Buildmile
+
+Реальный проект на фрилансе
+
+## [bezborodov.tech/buildmile/](https://bezborodov.tech/buildmile/)
+
+<sub>Можно посмотреть отдельные страницы:<br><a href="https://bezborodov.tech/buildmile/catalog.html">Проекты и строительство частных домов под ключ по лучшим ценам в Московской области</a> · <a href="https://bezborodov.tech/buildmile/">Главная</a> · <a href="https://bezborodov.tech/buildmile/old/anchor.html">reCAPTCHA — old/anchor</a> · <a href="https://bezborodov.tech/buildmile/old/saved_resource%281%29.html">Saved resource(1) — old/saved_resource(1)</a> · <a href="https://bezborodov.tech/buildmile/old/saved_resource.html">Saved resource — old/saved_resource</a> · <a href="https://bezborodov.tech/buildmile/page-product/index.html">Заказать проект двухэтажного дома Солнечный площадью 130 м2 в Москве и Московской области — page-product/index</a> · <a href="https://bezborodov.tech/buildmile/page-product/old/anchor.html">reCAPTCHA — page-product/old/anchor</a> · <a href="https://bezborodov.tech/buildmile/page-product/old/saved_resource%281%29.html">Saved resource(1) — page-product/old/saved_resource(1)</a> · <a href="https://bezborodov.tech/buildmile/page-product/old/saved_resource.html">Saved resource — page-product/old/saved_resource</a> · <a href="https://bezborodov.tech/buildmile/project.html">Заказать проект двухэтажного дома Солнечный площадью 130 м2 в Москве и Московской области — project</a></sub>

@@ -1,0 +1,48 @@
+@media (max-width: 1600px) {
+    .card_params {
+        @media (max-width: 426px) or (min-width: 1401px) {
+            width: 100%;
+            max-width: 329px !important;
+        }
+
+        @media (max-width: 1500px) {
+            max-width: 100%;
+        }
+    }
+
+    .catalog__item {
+        @media ((max-width: 1600px) and (min-width: 1401px)) or (max-width: 426px) {
+            padding-bottom: 0;
+
+            .button_obj {
+                right: 30px;
+                bottom: 33px;
+                transform: scale(0.95);
+
+                @media (max-width: 340px) {
+                    bottom: 72px !important;
+                    transform: scale(0.7) !important;
+                    transform-origin: top right;
+                }
+
+                a {
+                    padding: 5px 20px;
+                }
+            }
+        }
+    }
+}
+
+.card_params {
+    li {
+        &:nth-child(1) {
+            span {
+                height: 23px;
+            }
+        }
+    }
+
+    .span-trs {
+        transform: translateY(-50%);
+    }
+}

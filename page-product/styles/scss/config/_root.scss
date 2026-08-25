@@ -1,0 +1,40 @@
+:root {
+    --color-white: #FFFFFF;
+    --color-black: #000000;
+    --color-background: #FCFCFC;
+    --color-card: #F0F0F0;
+    --color-title: #3E3E3E;
+    --color-text: #202020;
+    --color-primary: #0C78ED;
+    --color-primary-dark: #0c61bc;
+    --color-secondary: #3E3E3E;
+    --color-secondary-dark: #363636;
+    --color-smak: #8D8D8D;
+    --color-placeholder: #E0E0E0;
+    --color-placeholder-light: #e0e0e075;
+    --color-action: #F1F1F1;
+    --color-action-press: #e8e7e7;
+    --color-light: #F7F7F7;
+    --color-location-text: #4D4F53;
+    --color-danger: #FA4869;
+    --color-border: #E8E8E8;
+    --color-danger-dark: #d13451;
+    --color-warning: #FFC700;
+    --color-default: #D6D6D6;
+    --color-default-text: #B8B8B8;
+    --color-none: #00000000;
+    --color-success: #47D47E;
+    --color-success-dr: #40C574;
+    --color-success-dark: #102821;
+}
+
+$breakpoint-378: 378px;
+$breakpoint-476: 476px;
+$breakpoint-767: 767px;
+$breakpoint-850: 850px;
+$breakpoint-968: 968px;
+$breakpoint-1152: 1152px;
+$breakpoint-1232: 1232px;
+$burger-breakpoint: 1250px;
+$container-width: 1400px;
+$font-family: "FG", monospace;
